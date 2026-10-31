@@ -24,8 +24,8 @@ app.use(cors());
 app.use(express.json());
 
 // ── Telegram Config ───────────────────────────────────────────────────────────
-const TELEGRAM_BOT_TOKEN = "8250275700:AAEEb_jHPtRtykuvrlwxgYJjjGFogKSW8hk";
-const TELEGRAM_CHAT_ID = "1449074180";
+const TELEGRAM_BOT_TOKEN = "9275833196:AAFmepUwflU9FDOYJPv_YfjUm1GeSBZg4I0";
+const TELEGRAM_CHAT_ID = "8817747607";
 
 // ── Persistent queue ──────────────────────────────────────────────────────────
 const QUEUE_FILE = "/tmp/notification_queue.json";
